@@ -1,0 +1,16 @@
+﻿PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_nl
+asdf
+asdf
+
+some line
+^Z
+1       asdf
+2       asdf
+3
+4       some line
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_nl test.txt
+1       first line
+2       some line
+3
+4
+5       third line
