@@ -1,0 +1,15 @@
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_wc test.txt
+5       6       33      test.txt
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_wc test.txt test2.txt
+5       6       33      test.txt
+6       4       28      test2.txt
+11      10      61      total
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_wc
+asdf
+asdf
+dsaf
+test
+test2
+22
+^Z
+6       6       29
