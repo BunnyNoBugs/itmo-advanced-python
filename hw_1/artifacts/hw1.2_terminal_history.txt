@@ -1,0 +1,69 @@
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_tail test.txt
+first line
+some line
+
+
+third line
+
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_tail test.txt test2.txt
+==> test.txt <==
+first line
+some line
+
+
+
+==> test2.txt <==
+afdasdfasd
+
+
+asdf
+test
+test2
+
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_tail
+asdf
+asdf
+test
+test3
+^Z
+asdf
+
+asdf
+test
+test3
+PS C:\Users\User\Женя\GitHub\Программирование\itmo-advanced-python\hw_1> python -m simple_tail
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+ab
+b
+b
+^Z
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+ab
+b
+b
